@@ -1,4 +1,4 @@
-# **Recette de Pancakes** 🥞
+# <span style="color: blue;">Recette de Pancakes</span> 🥞
 
-Mélangez **200g de farine**, **2 œufs**, **250ml de lait** et faites cuire dans une poêle bien chaude.  
-Servez avec du **sirop d'érable** ou des **fruits frais** pour une touche sucrée ! 🍯🍓
+Mélangez <span style="color: red;">200g de farine</span>, <span style="color: green;">2 œufs</span>, et <span style="color: orange;">250ml de lait</span>.  
+Servez avec du <span style="color: brown;">sirop d'érable</span> ou des <span style="color: purple;">fruits frais</span> ! 🍯🍓
